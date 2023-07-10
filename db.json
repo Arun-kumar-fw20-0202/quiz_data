@@ -1,0 +1,103 @@
+{
+  "quiz": [
+    {
+      "questions": [
+        {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+          "correct_answer": "Richard Branson",
+          "incorrect_answers": ["Alan Sugar", "Donald Trump", "Bill Gates"]
+        },
+        {
+          "category": "General Knowledge",
+          "type": "boolean",
+          "difficulty": "easy",
+          "question": "It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.",
+          "correct_answer": "False",
+          "incorrect_answers": ["True"]
+        },
+        {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+          "correct_answer": "Wax sculptures",
+          "incorrect_answers": [
+            "Designer clothing",
+            "Unreleased film reels",
+            "Vintage cars"
+          ]
+        },
+        {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which one of these is not a typical European sword design?",
+          "correct_answer": "Scimitar",
+          "incorrect_answers": ["Falchion", "Ulfberht", "Flamberge"]
+        },
+        {
+          "category": "General Knowledge",
+          "type": "boolean",
+          "difficulty": "easy",
+          "question": "Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.",
+          "correct_answer": "False",
+          "incorrect_answers": ["True"]
+        },
+        {
+          "category": "General Knowledge",
+          "type": "boolean",
+          "difficulty": "easy",
+          "question": "Scotland voted to become an independent country during the referendum from September 2014.",
+          "correct_answer": "False",
+          "incorrect_answers": ["True"]
+        },
+        {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "The Flag of the European Union has how many stars on it?",
+          "correct_answer": "12",
+          "incorrect_answers": ["10", "14", "16"]
+        },
+        {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "When someone is cowardly, they are said to have what color belly?",
+          "correct_answer": "Yellow",
+          "incorrect_answers": ["Green", "Red", "Blue"]
+        },
+        {
+          "category": "General Knowledge",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Who invented the first ever chocolate bar, in 1847?",
+          "correct_answer": "Joseph Fry",
+          "incorrect_answers": ["Andrew Johnson", "John Cadbury", "John Tyler"]
+        },
+        {
+          "category": "General Knowledge",
+          "type": "boolean",
+          "difficulty": "easy",
+          "question": "Ping-Pong originated in England",
+          "correct_answer": "True",
+          "incorrect_answers": ["False"]
+        }
+      ],
+      "username": "Arun",
+      "id": 1
+    }
+  ],
+  "result": [
+    {
+      "wrongA": 2,
+      "rightA": 8,
+      "totalQues": 10,
+      "username": "Arun",
+      "id": 3
+    }
+  ]
+}
